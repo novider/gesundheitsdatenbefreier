@@ -169,7 +169,7 @@ $gesundheitsdatenbefreier_krankenkassen->add('IKK Südwest', '66111', 'Saarbrüc
 
 // Gesetzliche Krankenkassen - keine E-Mail-Adresse gefunden
 
-$gesundheitsdatenbefreier_krankenkassen->add('Koenig & Bauer BKK', '97080', 'Würzburg', 'Friedrich-Koenig-Str. 4', '', false);
+$gesundheitsdatenbefreier_krankenkassen->add('Koenig & Bauer BKK', '97080', 'Würzburg', 'Friedrich-Koenig-Str. 4', 'datenschutzbeauftragter@koenig-bauer-bkk.de', false);
 $gesundheitsdatenbefreier_krankenkassen->add('Krones BKK', '93073', 'Neutraubling', 'Bayerwaldstr. 2L', '', false);
 $gesundheitsdatenbefreier_krankenkassen->add('Merck BKK', '64293', 'Darmstadt', 'Frankfurter Straße 130', '', false);
 $gesundheitsdatenbefreier_krankenkassen->add('mhplus Betriebskrankenkasse', '90411', 'Nürnberg', 'Nordostpark 14', '', false);
